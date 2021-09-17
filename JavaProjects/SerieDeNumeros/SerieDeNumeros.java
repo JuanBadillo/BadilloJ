@@ -1,7 +1,7 @@
 /*Elaborar un programa en Java que muestre en consola una secuencia de números
  Cada número de la secuencia debe ser la suma de los dos anteriores */
 
-//Juan Manuel Badillo Flores 19100148
+//Juan Manuel Badillo Flores 19100148 
 
 package Ejercicios;
 
