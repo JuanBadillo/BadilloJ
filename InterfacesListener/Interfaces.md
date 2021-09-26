@@ -87,3 +87,11 @@ Esta interfaz se ocupa de siete de los eventos de ventana. A\
 `void windowOpened(WindowEvent we)`\
 `void windowClosed(WindowEvent we)`\
 `void windowClosing(WindowEvent we)`
+
+#### WindowFocusListener 
+Esta interfaz se ocupa de los eventos de enfoque de la ventana. A\
+ continuación se muestran los métodos de manejo de eventos\
+ disponibles en la interfaz WindowFocusListener:
+
+`void windowGainedFocus(WindowEvent we)`\
+`void windowLostFocus(WindowEvent we)`\
